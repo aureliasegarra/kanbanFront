@@ -1,4 +1,4 @@
-# :inbox: Kanban Front 
+# :inbox_tray: Kanban Front 
 
 ## Create a Kanban type application where it is possible to create cards within lists.
 
