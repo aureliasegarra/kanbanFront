@@ -1,0 +1,13 @@
+html {
+    overflow-x: auto;
+    background-color: #ccc;
+  }
+  
+  body {
+    height: 100vh;
+  }
+  
+  .card-lists {
+    overflow-x: auto;
+  }
+  
