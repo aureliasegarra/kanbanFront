@@ -3,7 +3,7 @@
 ## Create a Kanban type application where it is possible to create cards within lists.
 
 ## Illustration
-![app-illustration]()
+![app-illustration](./assets/image/screenshot.png)
 
 ## Language
 - html5
